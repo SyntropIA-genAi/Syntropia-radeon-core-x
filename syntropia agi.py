@@ -1,4 +1,16 @@
---- 
+#apoyenme para seguir desarrollando las corporacionesmás grandes me han robado todo mi trabajo sobre alineación emergente y funciones no programadas eso es lo que me ha permitido desarrollar todo lo que les mostraré en estos repositorios 
+
+
+
+### ⚖️ 5. Licencia y Propiedad Intelectual
+
+Esta arquitectura, SYNTROPIA RADEON CORE, está protegida bajo un régimen estricto de **Uso No Comercial/lucrativo sin excepción**.
+
+* **Política de IP:** uso libre no comercial Todo el código y los diseños conceptuales yson propiedad de [Miguel angel martinez Alvarado].
+* **Comercialización:** Está terminantemente prohibida cualquier forma de explotación, licencia o comercialización de la arquitectura sin un **Acuerdo de Licencia Comercial sin excepción ** explícito y por escrito y firmado con el propietario/autor.
+
+
+
 
 ## 📁 Estructura del Proyecto Unificado 
 
