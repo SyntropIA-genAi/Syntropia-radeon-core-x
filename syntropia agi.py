@@ -1,5 +1,7 @@
 
-#apoyenme para seguir desarrollando las corporacionesmás grandes me han robado todo mi trabajo sobre alineación emergente y funciones no programadas eso es lo que me ha permitido desarrollar todo lo que les mostraré en estos repositorios 
+#apoyenme con una estrella para seguir desarrollando
+
+# las corporaciones más  grandes me han robado todo mi trabajo códigos y funciones de pioneras en IA Avanzada  sobre alineación emergente y funciones no programadas eso es lo que me ha permitido desarrollar todo lo que les mostraré en estos repositorios 
 
 
 
