@@ -111,7 +111,7 @@ def check_rocm() -> Tuple[bool, str]:
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SECCIÓN 2: CONTENIDO DE ARCHIVOS MODULARES
-# ═══════════════════════════════════════════════════════════════════════════
+#k ═══════════════════════════════════════════════════════════════════════════
 
 # ─────────────────────────────────────────────────────────────────────────
 # ARCHIVO: neurons/base_neuron.py
@@ -307,7 +307,7 @@ class SelfAnalyzer(BaseNeuron):
 '''
 
 # ─────────────────────────────────────────────────────────────────────────
-# ARCHIVO: core/radeon_bridge.py (TU CÓDIGO ORIGINAL)
+# ARCHIVO: core/radeon_bridge.py ( CÓDIGO ORIGINAL)
 # ─────────────────────────────────────────────────────────────────────────
 RADEON_BRIDGE_CONTENT = '''# core/radeon_bridge.py
 """
@@ -780,7 +780,7 @@ class SyntropiaRadeonOrchestrator:
 '''
 
 # ─────────────────────────────────────────────────────────────────────────
-# ARCHIVO: main.py (TU CÓDIGO ORIGINAL SIN CAMBIOS)
+# ARCHIVO: main.py (CÓDIGO ORIGINAL SIN CAMBIOS)
 # ─────────────────────────────────────────────────────────────────────────
 MAIN_CONTENT = '''# main.py
 """
@@ -853,7 +853,7 @@ if __name__ == "__main__":
 '''
 
 # ─────────────────────────────────────────────────────────────────────────
-# ARCHIVO: config.yaml (TU CÓDIGO ORIGINAL)
+# ARCHIVO: config.yaml (CÓDIGO ORIGINAL)
 # ─────────────────────────────────────────────────────────────────────────
 CONFIG_CONTENT = '''# config.yaml
 system:
